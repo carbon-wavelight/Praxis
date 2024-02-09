@@ -4,7 +4,7 @@ Praxis is a to-do list desktop application made entirely in Rust, using the Drui
 For now this is just a fun project exploring the possibilities of front-end UI in Rust.
 I give credit for the initial codebase to Techno3d. I followed their tutorial here [https://youtu.be/YEa2eq4HEU8].
 
-There are plans to turn this into a fully-fledged day organizer for ADHD folks.
+There are plans to turn this into a fully-fledged day organizer with calendar integration.
 
 Planned Features:
 - Daily Goals section
