@@ -6,6 +6,8 @@ I give credit for the initial codebase to Techno3d. I followed their tutorial he
 
 There are plans to turn this into a fully-fledged day organizer with calendar integration.
 
+UPDATE: Druid UI has been discontinued, so this project will be rewritten using Floem.
+
 Planned Features:
 - Daily Goals section
 - Weekly Goals section
